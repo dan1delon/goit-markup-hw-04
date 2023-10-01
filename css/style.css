@@ -159,10 +159,6 @@ color: var(--OCEAN, #404BBF);
 /** ========== Main banner ========== **/
 
 .banner {
-
-}
-
-.banner-container {
 background: var(--NAVY-BLUE, #2E2F42);
     max-width: 1440px;
     padding-top: 188px;
